@@ -1,0 +1,1 @@
+import{K as o,k as t,l as c,m as r,C as l}from"./entry.099aca03.js";const n={class:"p-4"},m=["src"],_={__name:"LinktreeAvatar",props:{blok:Object},setup(e){const s=e,a=o(()=>s.blok.image.filename);return(p,d)=>(t(),c("div",n,[r("img",{src:l(a),class:"rounded-full w-24 shadow-lg shadow-gray-600"},null,8,m)]))}};export{_ as default};

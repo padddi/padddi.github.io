@@ -1,0 +1,1 @@
+import{f as l,G as a,H as c,k as e,l as n,I as i,J as k,D as _}from"./entry.099aca03.js";const b={class:"px-4"},u={__name:"Page",props:{blok:Object},setup(t){return(m,d)=>{const r=l("StoryblokComponent"),s=a("editable");return c((e(),n("div",b,[(e(!0),n(i,null,k(t.blok.body,o=>(e(),_(r,{key:o._uid,blok:o},null,8,["blok"]))),128))])),[[s,t.blok]])}}};export{u as default};
